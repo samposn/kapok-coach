@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>pro.kapok</groupId>
 	<artifactId>kapok-coach</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>kapok-coach</name>
 	<description>kapok-coach</description>
 
@@ -52,6 +52,7 @@
 	</dependencies>
 
 	<build>
+<!--		<finalName>kapok-coach</finalName>-->
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
